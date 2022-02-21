@@ -69,23 +69,23 @@ Updated: 20220221
 | SAML Login|A Discourse Plugin to enable authentication via SAML| `https://github.com/discourse/discourse-saml.git`|
 | [Saved Searches](https://meta.discourse.org/t/67901)|Allows users to save searches and receive notifications when new posts match those searches.| `https://github.com/discourse/discourse-saved-searches.git`|
 | [Shared Edits](https://meta.discourse.org/t/167583)|Allows multiple users to collaboratively edit posts in real time. This feature is default disabled and must be enabled explicitly by moderators on posts.| `https://github.com/discourse/discourse-shared-edits.git`|
-| [signatures]()| `https://github.com/discourse/discourse-signatures.git`|
-| [sitemap]()| `https://github.com/discourse/discourse-sitemap.git`|
-| [solved]()| `https://github.com/discourse/discourse-solved.git`|
-| [spoiler-alert]()| `https://github.com/discourse/discourse-spoiler-alert.git`|
-| [staff-alias]()| `https://github.com/discourse/discourse-staff-alias.git`|
-| [steam-login]()| `https://github.com/discourse/discourse-steam-login.git`|
-| [subscriptions]()| `https://github.com/discourse/discourse-subscriptions.git`|
-| [teambuild]()| `https://github.com/discourse/discourse-teambuild.git`|
-| [tooltips]()| `https://github.com/discourse/discourse-tooltips.git`
-| [translator]()| `https://github.com/discourse/discourse-translator.git`|
-| [user-card-badges]()| `https://github.com/discourse/discourse-user-card-badges.git`|
-| [user-notes]()| `https://github.com/discourse/discourse-user-notes.git`|
-| [vk-auth]()| `https://github.com/discourse/discourse-vk-auth.git`|
-| [voting]()| `https://github.com/discourse/discourse-voting.git`|
-| [whos-online]()| `https://github.com/discourse/discourse-whos-online.git`|
-| [yearly-review]()| `https://github.com/discourse/discourse-yearly-review.git`|
-| [zendesk-plugin]()| `https://github.com/discourse/discourse-zendesk-plugin.git`|
+| [Signatures](https://meta.discourse.org/t/42263)|Add old school forum signatures to Discourse| `https://github.com/discourse/discourse-signatures.git`|
+| [Sitemap](https://meta.discourse.org/t/40348/)|Add sitemap.xml to your Discourse instance| `https://github.com/discourse/discourse-sitemap.git`|
+| [Solved](https://meta.discourse.org/t/30155)|The Discourse Solved plugin allows users to accept solutions on topics in designated categories.| `https://github.com/discourse/discourse-solved.git`|
+| [Spoiler Alert](https://meta.discourse.org/t/12650/)|Hide content in posts behind a spoiler tag| `https://github.com/discourse/discourse-spoiler-alert.git`|
+| Staff Alias|Allows a user to post or edit a post as a staff alias user, by being in a group| `https://github.com/discourse/discourse-staff-alias.git`|
+| [Steam Login / Authentication](https://meta.discourse.org/t/18153)|A simple plugin that enables authentication via Steam.| `https://github.com/discourse/discourse-steam-login.git`|
+| [Subscriptions](https://meta.discourse.org/t/140818)|Discourse Subscriptions allows site owners to sell recurring and one-time purchase subscriptions that grant access to a group on a Discourse instance.| `https://github.com/discourse/discourse-subscriptions.git`|
+| [Teambuild](https://meta.discourse.org/t/134907)|Do a team building activity inside Discourse.| `https://github.com/discourse/discourse-teambuild.git`|
+| [Tooltips](https://meta.discourse.org/t/69304/)|Preview the contents of topics on hover| `https://github.com/discourse/discourse-tooltips.git`
+| [Translator](https://meta.discourse.org/t/32630)|Translate posts on Discourse using Microsoft, Google, Amazon or Yandex translation APIs.| `https://github.com/discourse/discourse-translator.git`|
+| User Card Badges|This plugin allows users to choose one badge with an image to show on their user card.| `https://github.com/discourse/discourse-user-card-badges.git`|
+| [User Notes](https://meta.discourse.org/t/41026/)|Gives staff members the ability to attach notes to users.| `https://github.com/discourse/discourse-user-notes.git`|
+| [VK Auth](https://meta.discourse.org/t/12987)|This plugin adds support for logging in to a Discourse site via VK.| `https://github.com/discourse/discourse-vk-auth.git`|
+| [Voting](https://meta.discourse.org/t/40121)|Adds the ability for voting on a topic within a specified category.| `https://github.com/discourse/discourse-voting.git`|
+| [Whos Online](https://meta.discourse.org/t//52345)|displays a list of users currently active on the site:| `https://github.com/discourse/discourse-whos-online.git`|
+| [Yearly Review](https://meta.discourse.org/t/105713/)|Creates a Yearly Review topic that summarizes user and topic stats for the previous year. | `https://github.com/discourse/discourse-yearly-review.git`|
+| [Zendesk](https://meta.discourse.org/t/68005)|Zendesk for Discourse.| `https://github.com/discourse/discourse-zendesk-plugin.git`|
 
 # 3rd Party Support
 If you need any help in installing, setting up or using these plugins, please send me a message on meta https://meta.discourse.org/u/iamgav
