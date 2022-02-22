@@ -2,7 +2,7 @@
 
 based off file : https://github.com/discourse/discourse/blob/main/lib/plugin/metadata.rb
 
-Updated: 20220221
+Updated: 20220222
 
 ### Must have Plugin 
 |Name|Description|GitHub Link|
