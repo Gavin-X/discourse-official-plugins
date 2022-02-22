@@ -19,6 +19,7 @@ Updated: 20220221
 | [Apple Auth](https://meta.discourse.org/t/171485)|Login to Discourse using 'Sign in with Apple'|`https://github.com/discourse/discourse-apple-auth.git`|
 | [Assign](https://meta.discourse.org/t/58044)|Allows you to assign topics and individual posts (both private and public) to a user or group.|`https://github.com/discourse/discourse-assign.git`|
 | Auto Deactivate|This plugin will automatically deactivate stale users so that they need to recomfirm their email in order to login in again|`https://github.com/discourse/discourse-auto-deactivate.git`|
+| [Automation](https://meta.discourse.org/t/195773)|Automate actions through scripts and triggers. Customisation is made through an automatically generated UI.|`https://github.com/discourse/discourse-automation.git`|
 | [BBCode](https://meta.discourse.org/t/65425)|Use BBCode to format posts.|`https://github.com/discourse/discourse-bbcode.git`|
 | [BBCode Color](https://meta.discourse.org/t/65363)|A Discourse Plugin to support BBCode color tags.|`https://github.com/discourse/discourse-bbcode-color.git`|
 | [Cakeday](https://meta.discourse.org/t/38447/)|Decorates your avatar with celebratory emoji on the day you joined the site and optionally on your birthday.|`https://github.com/discourse/discourse-cakeday.git`|
