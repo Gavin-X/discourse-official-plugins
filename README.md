@@ -39,6 +39,7 @@ Updated: 20220222
 | [Follow](https://meta.discourse.org/t/110579)|Allows you to follow other users, list the latest topics involving them and receive notifications when they post.|`https://github.com/discourse/discourse-follow.git`|
 | [FontAwesome Pro](https://meta.discourse.org/t/150871)|Use Font Awesome Pro icons for Discourse |`https://github.com/discourse/discourse-fontawesome-pro.git`|
 | [Footnote](https://meta.discourse.org/t/84533)|Allows you to create markdown footnotes in your posts.|`https://github.com/discourse/discourse-footnote.git`|
+| [Gamification](https://meta.discourse.org/t/225916)|Adds customizable scoring (karma, kudos, points) and leaderboards to your instance.|`https://github.com/discourse/discourse-gamification.git`|
 | [GitHub](https://meta.discourse.org/t/99895/)|This plugin combines functionality of deprecated github_badges and discourse-github-linkback plugins.|`https://github.com/discourse/discourse-github.git`|
 | Gradle Issue|A simple plugin to link to a gradle issue if a tag exists to match it.|`https://github.com/discourse/discourse-gradle-issue.git`|
 | [Graphviz](https://meta.discourse.org/t/97554/)|Adds Graphviz capability to Discourse.|`https://github.com/discourse/discourse-graphviz.git`|
